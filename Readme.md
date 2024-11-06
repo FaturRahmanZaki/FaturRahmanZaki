@@ -57,8 +57,6 @@ A comprehensive web-based scholarship management system featuring:
 ### 2. [Salary Calculation System](https://github.com/FaturRahmanZaki/menghitung-gaji)
 An efficient employee salary management solution with:
 - 💰 Automated salary calculations
-- 📊 Performance metrics integration
-- 🔄 Real-time updates
 - 📱 User-friendly interface
 
 ## 📈 GitHub Analytics
