@@ -14,7 +14,7 @@ Welcome to my digital workspace! I'm a passionate developer studying at <b>Polit
 const fatur = {
     education: "Politeknik STMI Jakarta",
     major: "Industrial Automotive Information Systems",
-    currentlyLearning: ["Laravel", "Flutter", "Kotlin"],
+    currentlyLearning: ["Laravel", "Kotlin"],
     passionateAbout: ["Web Dev", "Mobile Dev", "UI/UX Design"],
     askMeAbout: ["Java", "PHP", "Android", "Web Development"]
 };
